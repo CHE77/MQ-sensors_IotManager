@@ -1,2 +1,2 @@
 # MQ-sensors_IotManager
-На остнове https://github.com/amperka/TroykaMQ
+На основе https://github.com/amperka/TroykaMQ
